@@ -4,7 +4,7 @@
 
 ## 🚀 API Endpoint (JSON)
 คุณสามารถดึงข้อมูลไปใช้ได้ทันทีผ่าน URL นี้:
-`https://raw.githubusercontent.com/Tchuuya/kku-quota-criteria/main/kku_quota_69_data.json`
+`https://raw.githubusercontent.com/Tchuuya/kku-quota-criteria/main/kku_quota_data.json`
 
 ## 📊 โครงสร้างข้อมูล (Data Structure)
 | ฟิลด์ (Key) | ประเภท | คำอธิบาย |
